@@ -1,0 +1,208 @@
+#### WORKFLOW #####
+
+# Name of the Workflow
+
+name: CICD
+
+# when does the workflow run
+
+on: push
+
+#### JOBS #####
+
+jobs:
+
+code:
+
+runs-on: ubuntu-latest
+
+steps:
+
+- name: Code checkout
+
+run: echo "Code checkout done"
+
+build:
+
+runs-on: ubuntu-latest
+
+steps:
+
+- name: Code Build
+
+run: echo "Code build done"
+
+test:
+
+runs-on: ubuntu-latest
+
+steps:
+
+- name: Code test
+
+run: echo "Code test done"
+
+deploy:
+
+runs-on: ubuntu-latest
+
+steps:
+
+- name: Code Deploy
+
+run: echo "Code deploy done"
+
+
+
+just now
+
+Renu Asmitha T
+mee
+
+
+
+just now
+Ayush Singh
+yes
+
+
+
+just now
+Satbam
+yes
+
+
+
+just now
+krima suthar
+chahiye sir
+
+
+
+just now
+Hema Soni
+me
+
+
+
+just now
+ADITYA 007
+yes
+
+
+
+just now
+Pankaj Kumar Rai
+like description, etc
+
+
+
+just now
+Apurva Patle
+me
+
+
+
+just now
+Sagar Sanjay Ahire
+yes
+
+
+
+just now
+Nikita Pawar
+yes please
+
+
+
+just now
+Himanshu Mandrawalia
+we want
+
+
+
+just now
+Mustkim Beg
+yes
+
+
+
+just now
+Bhushan
+yes
+
+
+
+just now
+Tausheem shakil
+yes
+
+
+
+just now
+ADITYA 007
+yes
+
+
+
+just now
+Shreyas Ranshoor
+yes
+
+
+
+just now
+Prachi Salunkhew
+yes
+
+
+
+just now
+Afan Bagwan
+Yes
+
+
+
+just now
+Kartik Choudhary
+yes
+
+
+
+just now
+kunal katkade
+yes
+
+
+
+just now
+Sarbajit Das
+Sir, yeh Ubuntu runners free hain kya ?
+
+
+
+just now
+Vechan
+yes
+
+
+
+just now
+Ayush Singh
+mee
+
+
+
+just now
+Ankita Khandekar
+yes
+
+
+
+just now
+Om Amol Nalawade
+yesss
+
+
+
+just now
